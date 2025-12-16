@@ -1,5 +1,5 @@
 🎵 Music Player
-A simple and elegant Music Player application 
+A simple and elegant Music Player application  https://elaborate-sprite-f9644e.netlify.app/
 
 
 ![image alt](https://github.com/sxmi07/Music-Player/blob/f57677e1067574225e04cce86d020083010b7129/player.jpg)
